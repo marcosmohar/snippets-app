@@ -8,3 +8,7 @@ INFO:root:Writing 'green eggs':'ham' to 'snippets.csv'
 DEBUG:root:Oppening file
 DEBUG:root:Writing snippet to file
 DEBUG:root:Write succesful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
