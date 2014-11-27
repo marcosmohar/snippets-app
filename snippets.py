@@ -26,12 +26,12 @@ def get(name, filename):
 	snippet = None
 	with open(filename, "r") as f:
 		reader = csv.reader(f)
-		
 		for row in reader:
 			if row[0]==name:
 				snippet = row[1]
-				logging.info("The {} snippet contents: {}".format(row[0], row[1]))
-
+				
+	if snippet == None:
+		return "The snippet does not exist"			
 	return name, snippet		
 
 
@@ -72,8 +72,11 @@ def main():
 		name, snippet = put(**arguments)
 		print "Stored {!r} as {!r}".format(snippet, name)
 	else:
-		name,snippet = get(**arguments)
-		print "Retrieved {!r} snippet from {!r}".format(snippet,name)
+		try:
+			name,snippet = get(**arguments)
+			print "Retrieved {!r} snippet from {!r}".format(snippet,name)
+		except:
+			print "There's not such snippet stored here"
 
 if __name__ == "__main__":
 	main()

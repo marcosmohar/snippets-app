@@ -94,3 +94,40 @@ DEBUG:root:Constructing get subparser
 INFO:root:Searching for 'list comprehension' snippet in 'python-notes.csv'
 DEBUG:root:Opening file
 INFO:root:The list comprehension snippet contents: [item for item in items]
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'primera' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:The primera snippet contents: aqui estamos
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'rudo' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'hamster' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'rudo' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'rudo' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'rudo' snippet in 'python-notes.csv'
+DEBUG:root:Opening file
