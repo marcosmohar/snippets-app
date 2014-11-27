@@ -30,3 +30,67 @@ DEBUG:root:Constructing put subparser
 INFO:root:Starting snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing 'primera':'aqui estamos' to 'snippets.csv'
+DEBUG:root:Oppening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write succesful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing 'hamster':'huey' to 'snippets.csv'
+DEBUG:root:Oppening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write succesful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'ham' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'ham' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'ham' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'hamster' snippet in 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:The hamster snippet contents: huey
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing 'list comprehension':'[item for item in items]' to 'python-notes.csv'
+DEBUG:root:Oppening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write succesful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Searching for 'list comprehension' snippet in 'python-notes.csv'
+DEBUG:root:Opening file
+INFO:root:The list comprehension snippet contents: [item for item in items]
